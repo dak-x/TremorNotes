@@ -17,5 +17,5 @@
 - Reach out to Jigyasa for her notes.
 
 ## Relevant Links:
-- https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/
-- https://github.com/findify/s3mock
+- [AWS Open Source Promo](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
+- [MockS3](https://github.com/findify/s3mock)
