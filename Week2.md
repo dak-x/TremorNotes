@@ -6,6 +6,12 @@
     - Timeout Based.
     - Maximum Batch Size.
 
+To Read:
+- Read on the various authentication methologies in AWS (could be painful)
+
+Open Ended Questions:
+- Provider agnostic connectors for storage.
+
 
 ## Stuff I've read/reading:
 - [About Stream Processing](https://medium.com/stream-processing/what-is-stream-processing-1eadfca11b97)
